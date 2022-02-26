@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britannia, passionately and historically, remembring her misery and happinesse in former ages, and declaring her calamities, and expectations now.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77545</idno>
+            <idno type="STC">Wing B4816</idno>
+            <idno type="STC">Thomason E29_8</idno>
+            <idno type="STC">ESTC R3422</idno>
+            <idno type="EEBO-CITATION">99872370</idno>
+            <idno type="PROQUEST">99872370</idno>
+            <idno type="VID">124803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124803)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E29[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britannia, passionately and historically, remembring her misery and happinesse in former ages, and declaring her calamities, and expectations now.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to Order, by G.B. and R.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printers' initials from colophon; place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "London January: 17th. 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:124803:1" rendition="simple:additions"/>
+            <head>BRITANNIA, PASSIONATELY AND HISTORICALLY, Remembring her Miſery and Happineſſe in former Ages, and declaring her Calamities, and Epectations now.</head>
+            <p>O Stay and conſider! I conjure ye by the being and originall you have from me; I conjure ye by all your native relations,<note place="margin">Her adju<g ref="char:EOLhyphen"/>ration.</note> by the blood which is ſo warme in your veines, and heats you into ſuch famous Reſolutions for your Religion and Countrey; I conjure yee by all the peace, by all the happineſſe and proſperity, by all the pleaſures I have af<g ref="char:EOLhyphen"/>forded you, by all thoſe terrene bleſſings, thoſe glorious habitations and Cities, by all thoſe goodly Territories, by all that can be deare, or precious, or honourable; I conjure yee by my ſufferings, by my troubles, my ſlaugh<g ref="char:EOLhyphen"/>ters,<note place="margin">Her com<g ref="char:EOLhyphen"/>plaint.</note> by my preſent deſolations and diſtractions, by the purple ſtreames that flow down every Province and County, by my torne and diſhevell'd Laws, Priviledges, Immunities, by the mutuall wounds and diſcords, by all the diſorders and rapines, by all the tyrannies and wofull oppreſſions, by all the violations and diſturbances, by all the expreſſible or imaginable ſorrows of a State and Kingdome, by my owne teares and ſighes; behold and conſider my meditations, and powre forth your paſſions with me: O let us contribute our lamentations, and conſociate our griefes, and let us lay our ſorrows toge<g ref="char:EOLhyphen"/>ther, and make up a rich and ſolemne lamentation, there is a glory in cala<g ref="char:EOLhyphen"/>mity, and a grandeur in diſtreſſes: O let ue ſit down and reaſon together, let us remember our former ſorrowes, and call up the ghoſts of ancient calami<g ref="char:EOLhyphen"/>ties, and recover the miſeries of other Ages from their Sepulchres, let us ſit a while in the Region and ſhadow of death, and aske the way into the land of forgetfulneſſe, and converſe with the hoary ſpirits of our Anceſtors, and contemplate thoſe rivers of blood, which run in the channells of thoſe ages,
+<pb n="2" facs="tcp:124803:2"/>and are now overflowing into our own: let us aske after the golden times and proſperities which have made our forefathers happy in the enioying, and would almoſt make us miſerable in the remembring.</p>
+            <p>I was at firſt glorious in the name of Britaine,<note place="margin">The firſt britaines.</note> and though I had no King or Monarch, but was divided into ſeverall States and governments, yet I was a pleaſant and pregnant ſoyle, greene and ſpringing with meadowes, varte<g ref="char:EOLhyphen"/>gated with flowers, ſhaded with trees, and white with harveſts, and painted with inhabitants, and undeflowred with aliens, unviolated either with the languages, uſages, or faſhions, or diſpoſitions of forrainers, I enioyed my ſelfe in my own banks girded with waters, abounding and flouriſhing, and like the map of another world, as if Providence had made all over againe in me in a leſſer Globe, and divided me from the reſt, and walled and ſecured me with Seas, I knew none mightier then <hi>Caſſevalaunus,</hi> who had onely a temporary adminiſtration and rule, here was no Tyranny, no oppreſſion, no diviſions but of provinces, till ſome Merchants having onely a Maritine knowledge of me, gave <hi>Caeſar</hi> ſo much information as ſent him over, and then factions en<g ref="char:EOLhyphen"/>creaſed at home, and my inhabitants enflamed againſt one another, made breaches for the Romane enemy to enter, then my peace waſted, and my glory declined, and I became a tributary to another nation, till <hi>Voadicia,</hi> that famous Queene, ſpirited with a Britiſh vertue would needs forget her Sex and conſtitution, and turn maſculine for the redeeming of her Country, and having rallied many thouſands of my inhabitants, defeated the Romane for<g ref="char:EOLhyphen"/>ces, yet being of a Sex too weak for a victory, was forced to let it fall out of her hand againe; and <hi>Suetonius</hi> a Roman Generall tooke it up, then was I more miſerable than before, my oppreſſion heavier: Thus hath the Tyranny of <hi>Rome</hi> been ever fatall and grievous to me unto this day, yet I confeſſe, I bad ſome calmes and peaceable diſtances, even then, but my Northerne ene<g ref="char:EOLhyphen"/>mies broke in upon me while my Romano governours were abſent, and then I ſent Ambaſſadours abroad unto them, but had no redreſſe, my people were taken from me, and in thoſe mighty factions of <hi>Rome</hi> ſpent, and I wofully depopulated; this was the complexion of my miſery then; and yet in all theſe oppreſſions my inhabitants have ever been mindfull of their ancient li<g ref="char:EOLhyphen"/>berty, and have ſtruggled againſt the Tyrannies of thoſe ager, and writ their Nationall vertues in drops of blood unto Poſterity.</p>
+            <p>And now my troubles grew to be more numerous,<note place="margin">The Sax<g ref="char:EOLhyphen"/>ons.</note> and my factions potent, and <hi>Vortigern</hi> ſtands up in a ſupremacy, and being not ſtrong enough to ſup<g ref="char:EOLhyphen"/>port ſuch a glorious advancement, he calls in a ravenous and rude enemy, who though they landed upon my ſoile as Stipendaties, yet there flowed in ſuch numbers and ſtreames of people by the intereſt they obtained in a do<g ref="char:EOLhyphen"/>ting Prince, enamoured on a Saxon beauty, that they ſoon ſpred over into
+<pb n="3" facs="tcp:124803:2"/>my Northerne Provinces: and thus poſſeſſed on ſuch large Territories, they breake out into inſolencies, and they rage upon my inhabitants, who ſtill re<g ref="char:EOLhyphen"/>taining their Native excellency, combine and fight with theſe uſurpers, under the Standard of a famous King:<note place="margin">Arthur.</note> and now my Kingdom looks red again with new ſlaughters, and my people after many bloody contentions are conque<g ref="char:EOLhyphen"/>red and ſpoiled, and I left in a deplorable condition, rent and divided into ſo many parts and Dominions, every grand Saxon holding up a Scepter, and my poor inhabitants with all their Lawes, Religion, and Liberties en<g ref="char:EOLhyphen"/>tombed in a generall deſolation, all my delicacies not regarded, but trampled on by a cruell and barbarous nation.</p>
+            <p>Now I am diſtracted again, and freſh Calamities ſucceed,<note place="margin">The Danes</note> new ſtirres and broiles inflame me every day, and there comes over by degrees another Nation fierce and Martiall, and thoſe arrive upon my coaſts, and the ride of blood flowes higher than before, I was now in as ſad a condition as ever, and I had nothing to comfort me in theſe tumults of the Danes and Saxons, but the light of the Goſpell breke in upon me, and gloriouſly ſhone upon my white cliffs, and now <hi>I</hi> felt a new happineſſe, me thought,<note place="margin">Auguſtine the Monk.</note> ſpringing within my nation, now <hi>I</hi> conceited my ſelfe neerer heaven then be<g ref="char:EOLhyphen"/>fore, now my ſhadowes fled away, and I ſaw and diſcovered fur<g ref="char:EOLhyphen"/>ther; and yet I am able to ſay now, my beame was not ſo pure then, darting upon my eyes but through a cloud of ſuperſtition, yet I had little peace, for, thoſe that waſted and ſpoiled my firſt people, they are now declining into a ſubject of revenge themſelves, and the Britains ſufferings muſt now be re<g ref="char:EOLhyphen"/>quired at the hands of their oppreſſors, and they muſt now let out their bloods for expiation, the Danes flow in like a crimſon inundation upon the land, and I muſt now ſubmit to another deſolation, and be ruin'd over again.</p>
+            <p>Nor am I long in this affliction, but things a little compoſed,<note place="margin">The Nor<g ref="char:EOLhyphen"/>mans.</note> I am looks upon again, by a new Conquerour, and thus expoſed to an inevitable inva<g ref="char:EOLhyphen"/>ſion, the Normans come over and poſſeſſe me, and clothe me in purple once againe at the battell of <hi>Haſtings,</hi> and now all my Nobility and people di<g ref="char:EOLhyphen"/>ſtracted at their overthrow, lay down their defenſive power, and preſents my Crowne and inheritances to that famous <hi>William:</hi> now my Laws, cuſtomes,<note place="margin">William the Con<g ref="char:EOLhyphen"/>querour.</note> Priviledges are all changed, and I am made a little more happy then before, and though I exchanged but one trouble for another, yet by a wiſe Provi<g ref="char:EOLhyphen"/>dence, this trouble like a wave lands me upon a more bleſſed ſhore of proſpe<g ref="char:EOLhyphen"/>rity then ever I had, now I am more civilized in attire and language, now I appeare more comely and beautifull, now I enter communion with other Nations, and am able to looke abroad and converſe with other States and kingdomes, <hi>I</hi> begin to improve an intereſt abroad, and trade for relations, and negotiate for Forraigne ornaments, now <hi>I</hi> can contemplate my former
+<pb n="4" facs="tcp:124803:3"/>miſeries, and admire the happineſſe of my preſent condition, and yet my re<g ref="char:EOLhyphen"/>ligion was but of a duskiſh colour, for now the cloud of Superſtitions began to gather and caſt a ſhadow upon many nations as well as mine.</p>
+            <p>And now my Crown grows brighter and more glorious then before, now my power becomes more Regall and Monarch call, and every day <hi>I</hi> receive ſome degree of perfection &amp; accompliſhment, and the troubles are as yet no more then puts a bluſhing die upon my face, &amp; makes me more beautiful, &amp; <hi>I</hi> am now buſied onely to keep my ſelfe from the invaſion of old troubles, and thus being inriched and beautified by a new acceſſe of Majeſtie, <hi>I</hi> am courted by a ſucceſſion of Kings, of <hi>Williams, Henries,</hi> a <hi>Stephen,</hi> a <hi>Richard</hi> eſpouſe me, and theſe are times rather of enlargement &amp; happines then of calamity to me.</p>
+            <p>But new revolutions of time brings with them revolutions of fortune,<note place="margin">King <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohns <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> and miſerie appears to me againe in the apparition of broiles and combuſtions, my Prince and Nobles contend for liberties, and a ſupremacy from <hi>Rome</hi> intercedes and ſtirs up more unhappy contentions, and now <hi>I</hi> am brought into a new captivity, and my ancient liberties, which was before conquered from me by a power from <hi>Rome,</hi> is now again after my recovery and re-eſta<g ref="char:EOLhyphen"/>bliſhment taken away, and I am chained unto the Papall chair, &amp; my Prince too, and my inhabitants, and this my ſecond ſervitude to <hi>Rome</hi> is worſe and more Tyrannous then my firſt, now my ſoule hath loſt her liberty, and <hi>I</hi> am disfranchiſed in ſpirit and conſcience, and all becauſe <hi>I</hi> endeavoured my re<g ref="char:EOLhyphen"/>demption; and thus, as if ſome fatality were now upon me, <hi>I</hi> am now eſpouſed againe to other Kings, but ſtill more unfortunate in my ſucceſſors: now my Peerage and Soveraign are beginning bloody diſcords,<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enry the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> and all the Quarrell is onely for breaking the Coards which bound me faſt, my King will needs enſlave me, and make me ſubmit to an uniuſt power, and Prerogative, and theſe my Nobles and Barons pittying to ſee my bondage, and not able to ſee their mother lie ſo fettered, who uſed to triumph in her Liberty, and walke in the pleaſant meadowes of enlargement, now my fields are embrued again, and the bodies of my ſlaine people lie ſcattered before my eyes.</p>
+            <p>And thus, as if a bloody Comet hung over me, other, and thoſe more wofull and calamitous ſtirs breake forth,<note place="margin">The wars of Yorke and L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nca<g ref="char:EOLhyphen"/>ſter begun by Henry the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</note> and now my people fight for enioying me, now <hi>I</hi> cannot but lament and bemoane my preſent unhappineſſe, <hi>I</hi> weepe over my own comelineſſe, and curſe my features and beauty, and call my Empire an unfortunate inheritance, that ſhould occaſion ſuch ſtrifes and mi<g ref="char:EOLhyphen"/>ſerable diſtractions, alas how many lie gaſping and bleeding upon my plains, how are all my pleaſures turned into ſorrows, all my comforts into ſighes and groanes, to ſee thoſe that ſhould live in peace with one another, enioying the comely intercourſe of friends and neighbours and Countrey men, and now wounding all theſe relations, and without difference and reſpects making but one common ſepulchre of thoſe goodly Provinces.</p>
+            <pb n="5" facs="tcp:124803:3"/>
+            <p> And now a King takes me by the hand, and adminiſters comfort and con<g ref="char:EOLhyphen"/>ſolation to me, now I feele better influences than before,<note place="margin">Henry the ſevenths Raigne.</note> my blood is ſtanched, and my dead are buried, and I have new robes preſented me, and white garments, and thoſe that were rouled in blood are taken from me, and now I have a garland of Roſes not red with battells, but Damaskt with peace and happineſſe; now the birds returne again and ſing on my branches, and the Hart and Roe trips upon my plaines, my ſheepe graze upon my mountaines in flockes, and my ſhepherds begin to make oaten pipes, and warble their harmeleſſe tunes unto the valleys which reſound the joyfull re<g ref="char:EOLhyphen"/>conciliations unto them, and now he that ſits upon my throne, ſmiles upon me, and entertaines me with paſtimes, and glorious delights of peace.</p>
+            <p>Yet to put me in minde that I am not immortall,<note place="margin">Henry the eights troubles</note> Commotions begin in me, and my Liberty being almoſt loſt againe, and the Tyrannies of <hi>Rome</hi> overflowing into my kingdom; one that had eſpouſed me for my perfections, and poſſeſſions, rouſes up himſelfe and breaks the Cords that ſuperſtition had tied him with to the Papall Dominion, and ſets me at liberty, and now I enjoy my freedome and eaſe, and rejoyce in my old immunities, now I am emancipated from another Supremacy, and thoſe that led the ſoules of my people captive, and forced them to bring all, and ſacrifice to their pleaſures, making them to lay down not only their conſciences, but their goods, lands, and all my delightfull ſituations at their feet, are expulſed from my domini<g ref="char:EOLhyphen"/>ons, and though <hi>I</hi> remained ſtill fettered in Superſtitions and ignorance, yet <hi>I</hi> gained a kinde of enlargement, by the favour and Indulgency of this Prince.</p>
+            <p>After theſe, there ariſes a bright ſtar, and ſhines upon me,<note place="margin">Edward the 6. his troubles.</note> and me thought <hi>I</hi> was much refreſhed at the firſt dawning of it; this brought me tidings of a more glorious light to follow, and yet in theſe dayes, when religion cleared up more brightly then ever, many a dark cloud of trouble was paſſing over me, and many ſtirs were beginning, but ſtill happily becalmed by a divine providence, and the miſt which was ſo thicke in my Kingdom before, begun to breake and ſcatter, and <hi>I</hi> had a cleerer proſpect, now <hi>I</hi> could ſee about the clouds, and many myſteries opened themſelves to my diſcovery; and now my Liberty increaſed, till this ſtar fell into my lap, and then a horrour and darkneſſe ſpread over me again.</p>
+            <p>Now my ſufferings are returning again, and <hi>I</hi> muſt be once more wet in the blood of my inhabitants, yet thoſe troubles did more comfort me,<note place="margin">Queene Maries troubles.</note> than the other did diſcontent me; and <hi>I</hi> rejoyced to be a tombe to thoſe, whoſe bodies and aſhes were perfumed with the holineſſe of their ſoules, never did <hi>I</hi> more triumph in my noone and height of proſperity, when <hi>I</hi> had peace
+<pb n="6" facs="tcp:124803:4"/>and all other bleſſings at the full, Oh! <hi>I</hi> gathered up thoſe drops of blood from the Martyrdome of thoſe Saints, and congealed them into rubies and Corall, and made me dreſſings and Jewells of them, oh the radiant flames of thoſe fires which gave more luſtre unto my Kingdom then all the luminaries of heaven, then either Sun or ſtars: oh the glory of that age, and ſuffering, the lights of heaven, the day it ſelfe was darkned and occlipſed with thoſe fires, and the aſhes of thoſe Saints were an ornament and rich covering upon me: theſe were troubles of a freſher complection, the tears that were then ſhed I preſerved in channells, and it pleaſed me to looke upon ſuch ſtreams, ſuch holy lamentations were muſick to my hills and valleys, and the Pſalmes which carried up the ſouls of my dying Martyrs were the ſweeteſt harmony that ever the Trees of my Forreſt ecchoed.</p>
+            <p>But theſe waves in a ſhort time left raging,<note place="margin">Queen E<g ref="char:EOLhyphen"/>lizabeths time.</note> and run in a ſmooth current, and now the ſtormes gave way to a more peaceable and quiet feaſon, and a Lady enters upon my Throne, attended with graces and honours, with peace and flouriſhings, and this time I enjoy a compoſed and undiſturbed condition, pleaſures abound in my palaces and cities, and wealth and riches, and all plenties flow in all my habitations, now I am courted from abroad, and other Kingdomes ſend me Ambaſſadours, and wooes my favours, and acquaintance, not any noiſe of War is heard in my land, and when at any time a cloud was gathering againſt me, either from abroad or at home, I ſaw a Divine breath diſperſing and blowing it away, and thus I paſſed years of pleaſure, and my Peace and happineſſe lengthens.</p>
+            <p>Now a new Prince comes in,<note place="margin">King James his time.</note> and to make me more bleſſed and com<g ref="char:EOLhyphen"/>pleatly glorious, he brings with him a people of his owne, and a kingdom too, and now I am returned to my ancient Liberties, and enlargements, now I am Britaine againe, and my dominions wider, and I hear not now a mur<g ref="char:EOLhyphen"/>muting, or the leaſt whiſper of any trouble, though there were ſome endea<g ref="char:EOLhyphen"/>vourings by night, yet it was onely in a few treaſonable and perſonall practiſes; but oh, I had a ſtrange miſgiving then; me thought my peace was but a prodigious and boding calme, and I propheſied to my ſelf that ſurely a tempeſt was not far off, and no ſooner had a few years rowled over my head, but another King is ſeated in my throne, and as he ſat downe, ſome drops of blood ſprinkled upon the Seat, and ſtained the robes, which made me fear ſuch a purple inauguration would be followed with as red a revenge, and with ſtreams of blood hereafter.</p>
+            <p>While I was triumphing ſome years in my new glory,<note place="margin">King Charl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s his time.</note> enjoying the pro<g ref="char:EOLhyphen"/>ſperity of a full throne, adorned with a Garland from France, feaſting and banqueting at home and abroad with forraigne States, me thought I felt a d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtemper of alteration running an my veines, I begun to be fenſible of new
+<pb n="7" facs="tcp:124803:4"/>Ceremonies, and dreſſings, and paintings in my Religion, of new oppreſſions, new exactions in my State, my Court grew full of pride, gallantry, ambition, luſt, and wantonneſſe, my tribunalls full of iniuſtice, of unrighteouſneſſe, or bribery, my Cities full of deceits, cheatings, extortions, uſuries, my Countries full of oppreſſions, ignorance, prophaneſſe, covetouſneſſe, uncharitableneſſe, my King grew credulous, my Courtiers Tyrannous, my Nobles and Gentry many of them vitious, and while theſe things were thus carried on, there be<g ref="char:EOLhyphen"/>gun ſome ſtrivings in my Northerne parts; and the troubles gathered, and in a ſhort time were ſo many, that I felt two Armies in my boſome ſtruggling, but they were ſoon appeaſed, and when I thought I had ſeen the returne of a peace, a new difference flames out, my King and ſubiects contend together, and from paper to powder, from pen to piſtoll, and now behold a generation is riſen up, deſtroying my Religion, my Lawes, my Liberties, my Parliament, my inhabitants, my Cities, my Countries, my Palaces: <hi>I</hi> that have inriched them, how do they impoveriſh me? how do they conſume my cattell, my wealth? how do they give my glory to the tramplings and ſcornes of my enemies? how do they perſecute my onely darling? the conſervatory of my peace, the Cabinet of my proſperity? how is it broken up?<note place="margin">Parlia<g ref="char:EOLhyphen"/>ment.</note> how is that Par<g ref="char:EOLhyphen"/>liamentary honour laid in the duſt? how have they emboldned and encou<g ref="char:EOLhyphen"/>raged thoſe that durſt not appear in my ruine before? thoſe that <hi>I</hi> had curbed with laws, and chained with my nationall power? how have they have violated all? and taken off their fetters, and brought them out to be the perſecutors,<note place="margin">Papiſts.</note> the tormentors, the murderers of my deareſt ſubiects? how have they com<g ref="char:EOLhyphen"/>plied with other Nations, ſtrangers to me in Religion, in Lawes, in Liberties? and theſe muſt be landed upon my ſhoares, and mixed with my inhabitants, a nation whom their own Kingdom have vomited out, as unworthy to tread upon the ſoyle; and theſe muſt come over into my habitations with hands be<g ref="char:EOLhyphen"/>ſmeared in the blood of ſo many thouſand Saints; O all ye that have any com<g ref="char:EOLhyphen"/>miſeration in your ſoules, any bowells of compaſſion, go fall down at the Throne of my Prince, ſpeak to him with tears and ſighes, to ſtop the bleeding of his Kingdom, to put away thoſe purple Councellors, that daſh my people ſo together, that are never weary with contriving new engines and devices of blood and calamity! O pray him by his own obligations to me, his oath ſo ſolemnly taken to preſerve me, pray him by all his former and many Proteſta<g ref="char:EOLhyphen"/>tions to defend my Religion, my peace, and Liberty, pray him by the comforts and endearments of the precious bloſſomes upon his Throne, pray him, as he regards the preſervation of his Crowne, of his Parliament, of his King<g ref="char:EOLhyphen"/>dom, nay of all his Kingdoms: O tell him the miſerable and unfortunate glory of ſuch a Conqueſt; the unhappy and unnaturall triumph in ſuch ſpoiles.</p>
+            <pb n="8" facs="tcp:124803:5"/>
+            <p> O call to thoſe Princes that are about him, call to their chariots to ſtay, be<g ref="char:EOLhyphen"/>fore they drive into irrecoverable ruine, call to their ſwords before they <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drunken in the blood of thoſe that have no crime, but Religion upon theſe ſoules.</p>
+            <p>O call to the Divines there before they recover the bankes of Tyber, call to them to returne from Idolatry, from Superſtitions, call them home again be<g ref="char:EOLhyphen"/>fore they arrive at thoſe ſhadowes of deſolation, which are in Babylon.</p>
+            <p>O call unto the people that are in Armes about him, that they will remem<g ref="char:EOLhyphen"/>ber their Liberties, and look back and ſee them ſwimming down in the blood of their Anceſtors, call to them to thinke upon their poſterity, that they may not twiſt ſuch cords for to binde themſelves, &amp; make withs to tie their genera<g ref="char:EOLhyphen"/>tions after them; O call to them to come out of the miſt they fight in, hold be<g ref="char:EOLhyphen"/>fore their eies the Kingly &amp; Parliamentary power they fight againſt, cal to them to bring home the perſon of their King to the Throne that wants him, hold forth your Religion, your Reformation, which you received from other age<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and deſires only to improve it to the generation after ye, hold forth the Liker<g ref="char:EOLhyphen"/>ties, the immunities of England, aske them if they be digging a Sepulchre to bury their grand Charter in before they die, and if they fight to make the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their Prince a King?</p>
+            <p>And if ſtill they go on in theſe contentions, they muſt know, <hi>I</hi> ſhall recei<g ref="char:EOLhyphen"/>ver my Liberties againſt their ſwords, the ghoſts of England will riſe up, and fight againſt them, thoſe that have gone down to their graves in this defence both in this age, and in the ages before: heaven is ingaged for me, and my people fight againſt an enemy whoſe idolatries, whoſe blood guiltineſſe, whoſe blaſphemies, and prophanations will take their part in deſtroying them, and now is the time of my Reformation come, behold the many divine aſſiſtance, the many heavenly deliverances, the many miraculous evidences my people have had ſince the beginning of theſe wars, behold thoſe eternall truths which are haſtning their accompliſhment, behold the Propheticall declination of <hi>Rome,</hi> behold how my people are returned home to me again, who have wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dred abroad ſeeking ſanctuaries from perſecutions, as if they were ſent before hand to wait for ſome new bleſſings, theſe are my certaine and undeniable comforts, my aſſurances, my expectations, and on the pillow of theſe I ſhal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſt my wearied, and diſtreſſed, and complaining ſoule.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed according to Order, by <hi>G.B.</hi> and <hi>R.W.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
